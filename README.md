@@ -25,12 +25,12 @@ This project implements a **Small Clinic Management System** in C++ using **OOP*
 
 ## How to Run
 ```bash
-g++ -std=c++17 -o Hospital3 Hospital3.cpp
+g++ Hospital3.cpp -o Hospital3
 ./Hospital3
+
+```
 Input from input.txt
-
 Output to output.txt
-
 Sample Input/Output
 Input: 5 patients, 5 doctors, appointment histories
 Output: patient info + appointment history, doctor info + assigned appointments
