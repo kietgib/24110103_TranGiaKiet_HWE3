@@ -1,0 +1,24 @@
+====== PATIENTS ======
+General Name: John Smith | ID: 323942344 | Age: 23 | Gender: Male | Address: 123 Main Street | Health Insurance ID: INS123 | Next Appointment: 2025-09-20
+DrMiller 2025-08-01 09:00 Completed
+DrTaylor 2025-08-15 14:30 Cancelled
+General Name: Alice Johnson | ID: 432952323 | Age: 23 | Gender: Female | Address: 123 Main Street | Health Insurance ID: INS123 | Next Appointment: 2025-09-20
+DrMiller 2025-07-10 10:00 Completed
+DrTaylor 2025-07-20 11:00 Completed
+DrMiller 2025-08-05 09:30 Completed
+General Name: David Brown | ID: 765432109 | Age: 28 | Gender: Male | Address: 321 Maple Street | Health Insurance ID: INS321 | Next Appointment: 2025-09-22
+DrMiller 2025-09-01 09:00 Completed
+General Name: Bob Lee | ID: 987654321 | Age: 40 | Gender: Male | Address: 456 Pine Street | Health Insurance ID: INS456 | Next Appointment: 2025-09-25
+DrMiller 2025-08-12 10:00 Completed
+DrTaylor 2025-08-15 09:30 Completed
+   [Chronic Condition: diabetes | Last Checkup: 2025-08-10]
+General Name: Catherine Green | ID: 876543210 | Age: 35 | Gender: Female | Address: 789 Oak Avenue | Health Insurance ID: INS789 | Next Appointment: 2025-09-28
+DrTaylor 2025-08-22 10:30 Completed
+DrMiller 2025-08-25 13:00 Completed
+   [Chronic Condition: hypertension | Last Checkup: 2025-08-18]
+====== DOCTORS ======
+General Name: Dr Miller | ID: 329320904 | Age: 52 | Gender: Female | Address: 12 Apple Street | Health Insurance ID: NS88842402 | Medical Specialty: General Medicine
+General Name: Dr Taylor | ID: 233532904 | Age: 42 | Gender: Female | Address: 12 Castle Street | Health Insurance ID: NS83222402 | Medical Specialty: Cardiology
+General Name: Dr Wilson | ID: 223344556 | Age: 45 | Gender: Male | Address: 34 Cherry Lane | Health Insurance ID: NS55667788 | Medical Specialty: Orthopedics
+General Name: Dr Adams | ID: 334455667 | Age: 38 | Gender: Female | Address: 56 Elm Street | Health Insurance ID: NS99887766 | Medical Specialty: Dermatology
+General Name: Dr Clark | ID: 445566778 | Age: 50 | Gender: Male | Address: 78 Walnut Road | Health Insurance ID: NS44556677 | Medical Specialty: Neurology

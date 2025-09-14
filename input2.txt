@@ -1,0 +1,96 @@
+5
+Normal_Patient
+John Smith
+323942344
+Male
+23
+123 Main Street
+INS123
+2025-09-20
+2
+DrMiller 2025-08-01 09:00 Completed
+DrTaylor 2025-08-15 14:30 Cancelled
+Normal_Patient
+Alice Johnson
+432952323
+Female
+23
+123 Main Street
+INS123
+2025-09-20
+3
+DrMiller 2025-07-10 10:00 Completed
+DrTaylor 2025-07-20 11:00 Completed
+DrMiller 2025-08-05 09:30 Completed
+Normal_Patient
+David Brown
+765432109
+Male
+28
+321 Maple Street
+INS321
+2025-09-22
+1
+DrMiller 2025-09-01 09:00 Completed
+Chronic_Patient
+Bob Lee
+987654321
+Male
+40
+456 Pine Street
+INS456
+2025-09-25
+diabetes
+2025-08-10
+2
+DrMiller 2025-08-12 10:00 Completed
+DrTaylor 2025-08-15 09:30 Completed
+Chronic_Patient
+Catherine Green
+876543210
+Female
+35
+789 Oak Avenue
+INS789
+2025-09-28
+hypertension
+2025-08-18
+2
+DrTaylor 2025-08-22 10:30 Completed
+DrMiller 2025-08-25 13:00 Completed
+5
+Dr Miller
+329320904
+Female
+52
+12 Apple Street
+NS88842402
+General Medicine
+Dr Taylor
+233532904
+Female
+42
+12 Castle Street
+NS83222402
+Cardiology
+Dr Wilson
+223344556
+Male
+45
+34 Cherry Lane
+NS55667788
+Orthopedics
+Dr Adams
+334455667
+Female
+38
+56 Elm Street
+NS99887766
+Dermatology
+Dr Clark
+445566778
+Male
+50
+78 Walnut Road
+NS44556677
+Neurology
